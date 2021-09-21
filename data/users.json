@@ -1,0 +1,78 @@
+{
+    "total": 5,
+    "list": [
+        {
+            "userId": 0,
+            "pseudo":"LEVVIS",
+            "profilPicture":"2",
+            "firstName": "Lewis",
+            "lastName": "Bonnetete",
+            "password": "0000",
+            "emailAddress": "lewis.bonnetete@gmail.com",
+            "description": "",
+            "likes": [],
+            "settings":[]
+          },
+      {
+        "userId": 1,
+        "pseudo":"KrishL",
+        "profilPicture":"1",
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "password": "123456",
+        "emailAddress": "krish.lee@gmail.com",
+        "description": "",
+        "likes": [],
+        "settings":[]
+      },
+      {
+        "userId": 2,
+        "pseudo":"RacksJ",
+        "profilPicture":"1",
+        "firstName": "Racks",
+        "lastName": "Jacson",
+        "password": "123456",
+        "emailAddress": "racks.jacson@gmail.com",
+        "description": "",
+        "likes": [],
+        "settings":[]
+      },
+      {
+        "userId": 3,
+        "pseudo":"DenialR",
+        "profilPicture":"1",
+        "firstName": "Denial",
+        "lastName": "Roast",
+        "password": "33333333",
+        "emailAddress": "denial.roast@gmail.com",
+        "description": "",
+        "likes": [],
+        "settings":[]
+      },
+      {
+        "userId": 4,
+        "pseudo":"DevidN",
+        "profilPicture":"1",
+        "firstName": "Devid",
+        "lastName": "Neo",
+        "password": "222222222",
+        "emailAddress": "devid.neo@gmail.com",
+        "description": "",
+        "likes": [],
+        "settings":[]
+      },
+      {
+        "userId": 5,
+        "pseudo":"JoneM",
+        "profilPicture":"1",
+        "firstName": "Jone",
+        "lastName": "Mac",
+        "password": "111111111",
+        "emailAddress": "jone.mac@gmail.com",
+        "description": "",
+        "likes": [],
+        "settings":[]
+      }
+    ]
+  }
+  
