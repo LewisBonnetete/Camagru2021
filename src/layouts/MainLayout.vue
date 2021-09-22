@@ -6,6 +6,7 @@
         <q-btn :ripple="false" color="dark" to="/" flat size="xl" label="Camagru"/>
       </q-toolbar>
       <q-tabs>
+        <q-chip color="red" text-color="white" :label="user" />
         <q-btn
         size="md"
         unelevated
@@ -33,3 +34,16 @@
   }
 }
 </style>
+<script>
+
+// eslint-disable-next-line
+    console.log(this)
+
+export default {
+  data() {
+    return {
+      user: this.$user,
+    };
+  },
+};
+</script>

@@ -25,6 +25,10 @@ app.get('/users/:id', (req, res) => {
   res.status(200).json(user);
 });
 
+app.get('/users/mail', (req, res) => {
+  res.status(200).json();
+});
+
 app.post('/users', (req, res) => {
   console.log(req.body);
   users.list.push(req.body);
